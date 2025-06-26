@@ -35,10 +35,7 @@ The goal of this project is to build a model that can **predict future sales** b
 2. **Data Preprocessing**
    - Handled missing values and ensured the data was time-indexed.
 3. **Modeling**
-   - Applied time series forecasting models such as:
-     - ARIMA / SARIMA
-     - Facebook Prophet
-     - [Or: Linear Regression, LSTM, etc.]
+   - Applied Linear Regression model 
 4. **Evaluation**
    - Used metrics like MAE, RMSE to assess model performance.
 5. **Forecasting**
